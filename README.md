@@ -1,12 +1,3 @@
-Este `README.md` foi projetado para um repositório específico (sugestão de nome: `neuro-supply-chain-engine` ou `sota-demand-forecasting`) onde você demonstra sua capacidade técnica de alto nível.
-
-Ele foca menos em "código solto" e mais na **Arquitetura da Solução**, nos **Resultados Matemáticos** e na **Aplicação de Negócio**, posicionando você como um Arquiteto de Soluções e não apenas um desenvolvedor.
-
-Utilizei os gráficos que você enviou como base para descrever os "Case Studies" visuais.
-
-***
-
-```markdown
 <div align="center">
 
 <!-- Título e Badge de Verificado -->
